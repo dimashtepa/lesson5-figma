@@ -1,0 +1,76 @@
+@import "null.css";
+@import url(https://fonts.googleapis.com/css?family=Lato:regular,700,900&display=swap);
+
+body{
+    font-family: Lato, Arial, Helvetica, sans-serif;
+}
+img{
+    width: 810px;
+    padding-top: 40px;
+}
+
+.wrapper {
+    min-width: 100%;
+    overflow: hidden;
+}
+.prewrapper{
+    width: 810px;
+    margin: 0 auto;
+}
+.title {
+    font-weight: 900;
+    font-size: 46px;
+    color: #1E212C;
+    height: 210px; 
+    padding-bottom: 40px;
+}
+.one {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.5;
+    color: #1E212C;
+    padding-top: 60px;
+}
+.two {
+    font-weight: regular;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #424551;
+    padding-top: 24px;
+}
+.text{
+    margin-bottom: 40px;
+}
+.quote {
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.5;
+    color: #1E212C;
+    padding-top: 48px;
+    margin-left: 58px;
+}
+.prelist{
+    font-weight: regular;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #424551;
+    padding-top: 48px;
+}
+.list {
+    font-weight: regular;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #424551;
+    padding-top: 24px;
+    margin-left: 34px;
+    min-width: 600px;
+}
+.last {
+    font-weight: regular;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #424551;
+    padding-top: 24px;
+
+}
